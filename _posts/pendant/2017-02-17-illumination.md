@@ -23,6 +23,6 @@ Directional microphones bring the pendant to life as it responds to music and co
 The pendant's animations are driven with the mathematic underpinnings of the natural world. Harmonic pendulums fall in and out of phase, and gravitational orbits span the pendant's surface. Animated light grows and decays exponentially to mimic organic lifecycles.
 
 <figure class="half">
-  <img src="/images/IlluminationRenderSkinny.png" alt="image">
-  <img src="/images/IlluminationRenderWide.png" alt="image">
+  <img src="/images/IlluminationRenderNarrow_1000px.png" alt="image">
+  <img src="/images/IlluminationRenderWide_1000px.png" alt="image">
 </figure>
