@@ -1,6 +1,6 @@
 ---
 layout: cleanpost
-title: "Illumination"
+title: "Clean Illumination"
 excerpt: "Responsive Ambiance"
 modified: 2017-02-17T22:17:25-04:00
 categories: pendant

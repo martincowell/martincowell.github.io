@@ -36,6 +36,7 @@
 
 .entry-header {
 	@include fill-parent;
+	text-align: center;
 }
 
 /* tag listing in page header */
@@ -194,9 +195,11 @@ span + .entry-title {
 		margin-top: 0;
 	}
 
+	/*
 	@include media($large) {
 		@include span-columns(9.5);
 	}
+	*/
 
 	/* nice link underlines */
   p > a,
