@@ -1,0 +1,45 @@
+[
+
+  
+    {
+      "title"			: "Illumination",
+      "link"			: "http://localhost:4000/pendant/illumination/",
+      "excerpt"		: "Responsive Ambiance"
+    }
+  
+
+  
+    ,{
+      "title"			: "Kinetics",
+      "link"			: "http://localhost:4000/pendant/kinetics/",
+      "excerpt"		: "Movement &amp; Breath"
+    }
+  
+
+
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "Contact",
+      "link"			: "http://localhost:4000/contact/",
+      "excerpt"		: "Reach out"
+    }
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+]
