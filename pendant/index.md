@@ -5,8 +5,14 @@ excerpt: "Pendant - Containing Illumination and Kinetics"
 search_omit: true
 ---
 
-<ul class="post-list">
-{% for post in site.categories.pendant %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} {% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
+<!-- <nav class="half">
+	<a href="{{ site.url }}/pendant/illumination" class="btn" >Illumination</a>
+	<a href="{{ site.url }}/pendant/kinetics" class="btn" >Kinetics</a>
+</nav> -->
+
+<figure class="half">
+	<a href="{{ site.url }}/pendant/illumination"><img src="{{ site.url }}/images/PendulumWave_still.png" alt="image"></a>
+	<a href="{{ site.url }}/pendant/kinetics"><img src="{{ site.url }}/images/LinkageDriveAssemblyDrawing_1000px.png" alt="image"></a>
+	<a href="{{ site.url }}/pendant/illumination" class="btn" >Illumination</a>
+	<a href="{{ site.url }}/pendant/kinetics" class="btn" >Kinetics</a>
+</figure>
