@@ -11,7 +11,6 @@ share: true
 
 <figure>
   <img src="/images/PendulumWave.gif" alt="image">
-  <figcaption>Responsive Ambiance</figcaption>
 </figure>
 
 Pairing two thousand addressable LEDs with sensors and the web, the pendant is aware of everything from local environments to twitter trends.

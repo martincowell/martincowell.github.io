@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cleanpost
 title: Photog
 excerpt: 'Photography work'
 search_omit: true
