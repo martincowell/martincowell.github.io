@@ -6,9 +6,11 @@ search_omit: true
 ---
 
 <center>Responsive Illumination</center>
-<figure>
+<!-- <figure>
   <img src="/images/PendulumWave.gif" alt="image">
-</figure>
+</figure> -->
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;align-items:center"><iframe src="https://giphy.com/embed/l4FGuasaZNDfUZ9N6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Pairing two thousand addressable LEDs with sensors and the web, the pendant is aware of everything from local environments to twitter trends.
 
@@ -23,11 +25,13 @@ The pendant's animations are driven with the mathematic underpinnings of the nat
   <img src="/images/IlluminationRenderWide_1000px.png" alt="image">
 </figure>
 
-
-<center> Kinetic Breath</center>
+<!-- <center> Kinetic Breath</center>
 <figure>
   <img src="/images/LinkageWavePropagation.gif" alt="image">
-</figure>
+</figure> -->
+
+<center> Kinetic Breath</center>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/xUA7b7QXbqmu6YEme4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Acting as a kinetic skeleton, Hoberman rings give the pendant the ability to expand over a 300% dynamic range. Each ring is driven by a stepper motor and acts independently of the other rings of the stack. This uniquely controllable movement grants the pendant a range of kinetic animations like slow breathing, pulsing, or wave propagation. 
 

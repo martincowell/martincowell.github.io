@@ -1,6 +1,6 @@
 ---
 layout: cleanpost
-title: Photog
+title: Photography
 excerpt: 'Photography work'
 search_omit: true
 ---
