@@ -10,12 +10,12 @@ search_omit: true
   <img src="/images/PendulumWave.gif" alt="image">
 </figure> -->
 
+<figure class="half">
 <div style="width:50%;padding-bottom:50%;position:relative">
-<center>
 	<iframe src="https://giphy.com/embed/l4FGuasaZNDfUZ9N6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
 	</iframe>
-</center>
 </div>
+</figure>
 
 
 Pairing two thousand addressable LEDs with sensors and the web, the pendant is aware of everything from local environments to twitter trends.
