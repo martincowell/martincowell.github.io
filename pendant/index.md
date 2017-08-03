@@ -17,6 +17,12 @@ search_omit: true
 </div>
 </figure>
 
+<figure class="half">
+<div style="width:50%;height:0;padding-bottom:50%;position:relative;">
+	<iframe src="https://giphy.com/embed/l1J3Fx16UpGKAqTqE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+	</iframe>
+</div>
+</figure>
 
 Pairing two thousand addressable LEDs with sensors and the web, the pendant is aware of everything from local environments to twitter trends.
 
