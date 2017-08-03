@@ -10,19 +10,22 @@ search_omit: true
   <img src="/images/PendulumWave.gif" alt="image">
 </figure> -->
 
-<figure class="half">
+<!-- <figure class="half">
 <div style="width:50%;padding-bottom:50%;position:relative">
 	<iframe src="https://giphy.com/embed/l4FGuasaZNDfUZ9N6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
 	</iframe>
 </div>
-</figure>
+</figure> -->
 
 <figure class="half">
-<div style="width:50%;height:0;padding-bottom:50%;position:relative;">
-	<iframe src="https://giphy.com/embed/l1J3Fx16UpGKAqTqE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;">
+	<iframe src="https://giphy.com/embed/3oEhn11xX1dCvrjX7G" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
 	</iframe>
 </div>
 </figure>
+
+
+<div style="width:60%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/3oEhn11xX1dCvrjX7G" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Pairing two thousand addressable LEDs with sensors and the web, the pendant is aware of everything from local environments to twitter trends.
 
