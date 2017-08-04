@@ -28,8 +28,9 @@ Attaching the Hoberman ring to a gear train transforms the simple rotation of th
 
 <figure class ="half">
 	<img src="/images/LinkageDriveAssemblyDrawing_1000px.png" alt="image">
+</figure>
+
+<figure class ="half">
 	<div style="width:50%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://www.youtube.com/embed/jQE2xEsFyc8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 	<figcaption>Mechanized Drive</figcaption>
 </figure>
-
-
